@@ -23,5 +23,15 @@ https://www.youtube.com/watch?v=V_T5NuccwRA
 EDUCATION 4U
 https://www.youtube.com/watch?v=81QLBCW94Oo
 
+# Time Complexities
 
+Best case complexity: O(1)
+Average case complexity: O(log n)
+Worst case complexity: O(log n)
+# Space Complexity
 
+The space complexity of the binary search is O(n).
+
+# Binary Search Applications
+In libraries of Java, .Net, C++ STL
+While debugging, the binary search is used to pinpoint the place where the error happens.
